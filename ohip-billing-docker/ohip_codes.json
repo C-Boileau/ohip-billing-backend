@@ -1,0 +1,20 @@
+[
+  {
+    "code": "A007",
+    "description": "Intermediate Assessment (Office)",
+    "fee": 36.85,
+    "category": "consultation"
+  },
+  {
+    "code": "K040",
+    "description": "Diabetic Foot Exam",
+    "fee": 12.35,
+    "category": "premium"
+  },
+  {
+    "code": "Q040",
+    "description": "Age Premium (Over 75)",
+    "fee": 0.0,
+    "category": "premium"
+  }
+]
